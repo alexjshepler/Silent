@@ -1,0 +1,8 @@
+{
+    "discord":{
+        "token":"But your bot token here",
+        "appId":"Put your app id here",
+        "appSecret":"Put you app secret here",
+        "CommandPrefiz":"Whatever you want to prefix your commands"
+    }
+}
